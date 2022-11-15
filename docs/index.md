@@ -4,102 +4,91 @@ layout: home
 hero:
   name: Monitorando as Águas
   text: Ponte Cidade Jardim
-  tagline: Química Tecnológica e Ambiental
+  tagline: Insper - Química Tecnológica e Ambiental
   actions:
-    - theme: brand
-      text: 📰 Relatório 2022
-      link: /reports/2022
-    - theme: alt
-      text: Relatórios
-      link: /reports/
+  - theme: brand
+    text: 📰 Relatório 2022
+    link: /reports/2022
+  - theme: alt
+    text: Sobre
+    link: /sobre/
 
 features:
-  - icon: 👩‍🔬
-    title: Paulina Achurra
-    details: Ph.D.
-    link: http://lattes.cnpq.br/8604197623762869
-    linkText: Lattes
-  - icon: 👩‍🔬
-    title: Carolina Costrino
-    details: Master
-    link: https://www.linkedin.com/in/carolina-costrino/
-    linkText: LinkedIn
+- icon: 👩‍🔬
+  title: Paulina Achurra
+  details: Ph.D.
+  link: http://lattes.cnpq.br/8604197623762869
+  linkText: Lattes
+- icon: 👩‍🔬
+  title: Carolina Costrino
+  details: Master
+  link: https://www.linkedin.com/in/carolina-costrino/
+  linkText: LinkedIn
+
+members:
+- name: Guilherme Fontana
+  avatar: https://www.github.com/guifl2001.png
+  links:
+  - link: https://github.com/guifl2001
+    icon: github
+- name: Letícia Coelho
+  avatar: https://www.github.com/leticiacb1.png
+  links:
+  - link: https://github.com/leticiacb1
+    icon: github
+- name: Lídia Domingos
+  avatar: https://www.github.com/LidiaDomingos.png
+  links:
+  - link: https://github.com/LidiaDomingos
+    icon: github
+- name: Luciano Felix
+  avatar: https://www.github.com/FelixLuciano.png
+  links:
+  - link: https://github.com/FelixLuciano
+    icon: github
+- name: Pedro Andrade
+  avatar: https://www.github.com/Pedro2712.png
+  links:
+  - link: https://github.com/Pedro2712
+    icon: github
+- name: Pedro Altobelli
+  avatar: https://www.github.com/pedroaltobelli23.png
+  links:
+  - link: https://github.com/pedroaltobelli23
+    icon: github
 ---
 
 <script setup>
 import {
   VPTeamPage,
   VPTeamPageTitle,
-  VPTeamMembers
+  VPTeamMembers,
 } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: 'https://www.github.com/guifl2001.png',
-    name: 'Guilherme Fontana',
-    links: [
-      { icon: 'github', link: 'https://github.com/guifl2001' },
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/leticiacb1.png',
-    name: 'Letícia Coelho',
-    links: [
-      { icon: 'github', link: 'https://github.com/leticiacb1' },
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/LidiaDomingos.png',
-    name: 'Lídia Domingos',
-    links: [
-      { icon: 'github', link: 'https://github.com/LidiaDomingos' },
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/FelixLuciano.png',
-    name: 'Luciano Felix',
-    links: [
-      { icon: 'github', link: 'https://github.com/FelixLuciano' },
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/Pedro2712.png',
-    name: 'Pedro Andrade',
-    links: [
-      { icon: 'github', link: 'https://github.com/Pedro2712' },
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/pedroaltobelli23.png',
-    name: 'Pedro Altobelli',
-    links: [
-      { icon: 'github', link: 'https://github.com/pedroaltobelli23' },
-    ]
-  },
-]
 </script>
+
+<style>
+:root {
+    --vp-c-brand: #06b6d4;
+    --vp-c-brand-light: #22d3ee;
+    --vp-c-brand-lighter: #67e8f9;
+    --vp-c-brand-dark: #0891b2;
+    --vp-c-brand-darker: #0e7490;
+
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #06b6d4, #22c55e);
+}
+
+img, iframe {
+	border-radius: .25rem;
+}
+</style>
 
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
       Nossa Equipe
     </template>
-    <!-- <template #lead>
-      The development of VitePress is guided by an international
-      team, some of whom have chosen to be featured below.
-    </template> -->
   </VPTeamPageTitle>
-  <VPTeamMembers
-    :members="members"
-  />
-</VPTeamPage>
 
-<style>
-:root {
-  --vp-c-brand: #ef4444;
-  --vp-c-brand-light: #f87171;
-  --vp-c-brand-lighter: #fca5a5;
-  --vp-c-brand-dark: #dc2626;
-  --vp-c-brand-darker: #b91c1c;
-}
-</style>
+  <VPTeamMembers :members="$frontmatter.members" />
+</VPTeamPage>
