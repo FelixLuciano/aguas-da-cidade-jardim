@@ -21,7 +21,7 @@ export default {
   },
 
   themeConfig: {
-    siteTitle: '🔬 Monitorando as Águas',
+    siteTitle: 'Monitorando as Águas',
 
     nav: [
       { text: 'Insper', link: 'https://insper.edu.br' },
