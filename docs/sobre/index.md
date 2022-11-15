@@ -15,6 +15,15 @@ O projeto atual tem como objetivo realizar uma análise completa do estado das �
 
 Primeiramente, é necessário relembrar o porquê o estudo da água é importante. A relevância da água é inegável, já que tal componente compõe 70% do peso corporal humano, regula a temperatura do corpo e é essencial para todas as funções orgânicas. Dessa forma, analisar a qualidade dos rios, buscando entender os impactos humanos que são causados nesse ecossistema, é mais do que imprescindível para o mantimento da qualidade da vida humana no planeta.
 
+## Mapa da localização do estudo
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.4897234526666!2d-46.69373308449337!3d-23.586763468417168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5781fe4340c3%3A0xea53a09ff5b698af!2sPonte%20Cidade%20Jardim!5e0!3m2!1spt-BR!2sbr!4v1668488630169!5m2!1spt-BR!2sbr" width="800" height="600" style="width:100%;border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p align="center">
+	<b>Figura 2 - Mapa da região.</b>
+	<br>
+	<a href="https://goo.gl/maps/2fz5MCKs6J9aZcJe9">Google (2022)</a>
+</p>
+
 ## Características do Rio Pinheiros
 
 O Rio Pinheiros é um dos principais rios da cidade de São Paulo, margeado pela marginal Pinheiros que junto com a marginal Tietê, compõem o principal sistema viário da cidade, onde 70% do fluxo total de veículos passa por uma das marginais diariamente. O Rio nasce do encontro do Rio Guarapiranga com o Rio Grande, e deságua no Tietê.
