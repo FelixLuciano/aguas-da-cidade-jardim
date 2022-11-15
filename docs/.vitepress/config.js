@@ -1,4 +1,5 @@
 export default {
+    base: '/aguas-da-cidade-jardim/',
     lang: 'pt-BR',
     title: 'Monitorando as Águas',
     description: 'Monitorando as Águas da Ponte Cidade Jardim.',
