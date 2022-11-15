@@ -20,7 +20,7 @@ Diversas espécies aquáticas possuem seu metabolismo afetado por diferentes ní
 
 Vários parâmetros físico-químicos da água são influenciados pela mudança de temperatura, como exemplo a tensão superficial e a viscosidade. Caso atingidos por temperaturas fora de seus limites de tolerância, seres aquáticos podem ter seu crescimento e taxa reprodutiva gravemente alterados.
 
-## Coliformes Tomotolerantes
+## Coliformes Termotolerantes
 
 Indicativo de poluição de rios por esgoto doméstico. A presença dessas bactérias em grande número pode indicar a existência de patógenos responsáveis pela transmissão de doenças de veiculação hídrica.
 

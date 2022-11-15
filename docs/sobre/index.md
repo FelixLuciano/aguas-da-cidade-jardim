@@ -11,7 +11,7 @@ Manual de Campo Observando os Rios, SOS Mata Atlântica.
 
 ## A importância do estudo das àguas
 
-O projeto atual tem como objetivo realizar uma análise completa do estado das águas do Rio Pinheiros, mais especificamente das amostras coletadas logo abaixo da ponte cidade jardim. Neste estudo, será calculado o índice de qualidade de água (IQA) e depois contrastar tais dados com a norma da CONAMA 357 para definir o nível de qualidade das águas no ponto de coleta.
+O projeto atual tem como objetivo realizar uma análise completa do estado das águas do Rio Pinheiros, mais especificamente das amostras coletadas, logo abaixo da ponte cidade jardim. Neste estudo, será calculado o índice de qualidade de água (IQA) e depois contrastar tais dados com a norma da CONAMA 357 para definir o nível de qualidade das águas no ponto de coleta.
 
 Primeiramente, é necessário relembrar o porquê o estudo da água é importante. A relevância da água é inegável, já que tal componente compõe 70% do peso corporal humano, regula a temperatura do corpo e é essencial para todas as funções orgânicas. Dessa forma, analisar a qualidade dos rios, buscando entender os impactos humanos que são causados nesse ecossistema, é mais do que imprescindível para o mantimento da qualidade da vida humana no planeta.
 
