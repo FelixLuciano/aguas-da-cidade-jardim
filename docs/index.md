@@ -81,6 +81,10 @@ import {
 img, iframe {
 	border-radius: .25rem;
 }
+
+.VPFeature .title {
+  font-size: 1.5rem;
+}
 </style>
 
 <VPTeamPage>
