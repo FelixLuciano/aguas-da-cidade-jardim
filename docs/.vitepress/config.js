@@ -24,6 +24,8 @@ export default {
             ]
           }
         ],
+        outline: 'deep',
+        outlineTitle: 'Tópicos',
         footer: {
           message: 'Released under the MIT License.',
           copyright: 'Copyright © 2022'
