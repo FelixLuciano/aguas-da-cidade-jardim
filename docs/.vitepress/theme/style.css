@@ -1,0 +1,24 @@
+:root {
+    --vp-c-brand: #06b6d4;
+    --vp-c-brand-light: #22d3ee;
+    --vp-c-brand-lighter: #67e8f9;
+    --vp-c-brand-dark: #0891b2;
+    --vp-c-brand-darker: #0e7490;
+
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #06b6d4, #22c55e);
+    --vp-home-hero-image-filter: blur(6rem);
+}
+
+::selection {
+    background-color: rgba(234 179 8 / .75);
+}
+
+img, iframe {
+	border-radius: .25rem;
+}
+
+main .VPHero {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}

@@ -35,7 +35,7 @@ export default {
       {
         text: 'Introdução',
         items: [
-          { text: 'Sobre', link: '/sobre/' },
+          { text: 'Sobre', link: '/' },
           { text: 'Indicadores', link: '/sobre/indicadores' }
         ]
       },
