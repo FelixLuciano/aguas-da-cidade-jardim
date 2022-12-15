@@ -5,7 +5,7 @@
 [![.github/workflows/deploy.yml](https://github.com/FelixLuciano/aguas-da-cidade-jardim/actions/workflows/deploy.yml/badge.svg)](https://github.com/FelixLuciano/aguas-da-cidade-jardim/actions/workflows/deploy.yml)
 [![pages-build-deployment](https://github.com/FelixLuciano/aguas-da-cidade-jardim/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/FelixLuciano/aguas-da-cidade-jardim/actions/workflows/pages/pages-build-deployment)
 
-[Abrir relatório](https://lucianofelix.com.br/aguas-da-cidade-jardim/)
+[Abrir relatório](https://github.lucianofelix.com.br/aguas-da-cidade-jardim/)
 
 ## Executando localmente
 
